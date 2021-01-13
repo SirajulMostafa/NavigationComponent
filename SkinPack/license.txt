@@ -1,0 +1,36 @@
+Support:
+Windows 10 - Windows 8/8.1 - Windows 7/SP1 - [X86_32Bit & X64_64Bit] - [All Language] - [All Version]
+
+WebSite: www.skinpacks.com
+FaceBook: www.facebook.com/skinpackpage
+Twitter: www.twitter.com/skinpacks
+Google+: www.google.com/+Skinpackspage
+Youtube: www.youtube.com/user/skinpackchannel
+linkedin: www.linkedin.com/in/skinpack
+Tumblr: www.skinpack.tumblr.com/
+DeviantArt: www.skinpack.deviantart.com/
+feed: www.skinpacks.com/feed
+
+Changelog:
+
+Version 1.0
+-Initial release
+
+Note: Please unistall old or other version of skin packs before install new one. if your theme not changed or its like classic windows you need to install uxtheme patcher and after restart select new theme from personalization.
+Use it at your own risk!
+You’re advised to Create a System Restore Point before installing this pack.
+SkinPack make changes to your system files, SkinPack works that way! It modifies your system files to change icons. If you do not want this, you can not use SkinPack, sorry!SkinPack will modify system files like imageres.dll to change icons and AV dont permission to do that!Modifying system files and changing system configuration may get reported as malware by some antivirus software.You need to temporary turn-off antivirus software so that program won't be interfered during installation/uninstallation.
+If you feel insecurity with this, you can consider ThemePack as it doesn't involve modifying system files.
+If you can’t login to your PC after installing SkinPack, something in your system is conflicting with the pack. Try uninstalling it from Safe-Mode by running “uninst.exe” in “C:\SkinPack\”. Or from Windows Recovery (for power users) by running “uicons.exe” in “C:\SkinPack\”. And if you’re only getting black screen, please follow this steps:
+1. Boot Windows normally until you see black screen.
+2. Open task manager by either holding CTRL+SHIFT and hit ESC or holding ALT+CTRL and hit DELETE then choose task manager.
+3. Click on ‘File’ menu and select ‘Run new task’
+4. Click ‘Browse…’ and select file ‘C:\SkinPack\uninst.exe’.
+5. Click ‘Open’ and then ‘OK’ to run uninstaller.
+6. After finishing uninstallation, reboot and install fixed build again.
+If you can’t open task manager at all, it’s probably not caused by error with explorerframe.dll file. There’re many kinds of mysterious black screen problems so it’s hard to track them all. Please try using recovery to repair your computer.
+The pack I choose to install messed up my system beyond repair, what should I do now?
+You’ve been advised in the download page to Create a Restore Point, so when such a rare thing happens, you can easily Restore your System to the pre-installation status. We’re not responsible if you choose not to take such a precaution. This software is provided "as is" without any guarantees or warranty. In connection with the software, the developers make no warranties of any kind, either express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, of title, or of non-infringement of third party rights. Use of the software by a user is at the user's risk and is deemed acceptance of these terms.
+You can share skinpack in your website with our link. You can share skinpack with your friends. You CAN NOT Sell skinpack , our products are free.
+Thanks to you for using SkinPack!
+Copyright © 2014 All rights reserved. www.skinpacks.com

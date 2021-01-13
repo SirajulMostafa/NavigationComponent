@@ -1,0 +1,10 @@
+Desktop Rect: 0,0  1366,768
+Monitor Rect: 0,0 1366,768
+Working Rect: 0,30 1366,768
+Could not open mc.cfg
+"ApplicationFrameHost" WIN 60040, 2103fe PID 2060[3484] CLASS ApplicationFrameWindow  
+    pile=2    origin (262, 63) width 816 height 640  [Z=127]     content (0, 0) width 816 height 640
+"ApplicationFrameHost" WIN c0512, 604c0 PID 2060[3452] CLASS ApplicationFrameWindow  
+    pile=2    origin (374, 60) width 816 height 640  [Z=125]     content (0, 0) width 816 height 640
+"explorer" WIN 140522, 805b8 PID 6720[8968] CLASS CabinetWClass  MINIMIZED 
+    pile=1    origin (390, 335) width 0 height 0  [Z=64]     content (0, 0) width 1139 height 600
